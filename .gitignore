@@ -1,0 +1,17 @@
+./frontend/node_modules
+./backend/node_modules
+.DS_Store
+.env
+*.log
+dist/
+build/
+coverage/
+.idea/
+.vscode/
+./backend/__pycache__/
+./frontend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
